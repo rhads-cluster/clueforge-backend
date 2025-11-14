@@ -1,5 +1,6 @@
 # Core web framework
 flask
+flask-cors
 
 # Git and diff handling
 gitpython
