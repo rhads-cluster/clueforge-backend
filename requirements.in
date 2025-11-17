@@ -1,17 +1,2 @@
 # Core web framework
 flask
-flask-cors
-
-# Git and diff handling
-gitpython
-
-# AI/ML for summaries (PyTorch + Hugging Face)
-transformers
-torch
-
-# Config parsing
-pyyaml
-
-# Quantization for efficient model loading
-bitsandbytes
-accelerate
